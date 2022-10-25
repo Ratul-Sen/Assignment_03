@@ -1,0 +1,30 @@
+.card{
+    background-color: lightblue;
+    margin: 40px;
+}
+.card01{
+    background-color: aqua;
+    display: flex;
+}
+.card02{
+    background-color: lightcoral;
+    display: flex;
+
+}
+.card03{
+    background-color: gold;
+    display: flex;
+    
+}
+.card04{
+    background-color: lightgoldenrodyellow;
+    display: flex;
+}
+.card05{
+    background-color: lightpink;
+    display: flex;
+}
+.card06{
+    background-color: lightgreen;
+    display: flex;
+}
